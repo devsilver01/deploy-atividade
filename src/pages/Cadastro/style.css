@@ -1,0 +1,13 @@
+.pagina-cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 32px;
+    background: linear-gradient(
+        to bottom right,
+        rgba(3, 70, 148, 0.7),  /* Azul Chelsea */
+        rgba(255, 255, 255, 0.5), /* Branco translúcido */
+        rgba(255, 215, 0, 0.5) /* Dourado translúcido */
+    );
+}
